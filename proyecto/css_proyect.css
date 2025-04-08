@@ -135,14 +135,15 @@ nav a:hover {
 
 /* Footer */
 footer {
-    position: fixed; 
-	bottom: 0; 
-	left: 0; 
-	width: 100%; 
-	background: #eee; 
-	padding: 10px; 
-	text-align: center;
-}
+        position: fixed; 
+        bottom: 0; 
+        left: 0; 
+        width: 100%; 
+        background: #6A1B9A; 
+        color: #fff;
+        padding: 10px; 
+        text-align: center;
+    }
 
 ul {
 
